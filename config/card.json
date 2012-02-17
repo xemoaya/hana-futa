@@ -1,0 +1,85 @@
+[
+{"cards":
+[{"pic_name": "Mutsuki1.jpg", "type": ["cou", "tsuru"], "id": "Mutsuki1"},
+{"pic_name": "Mutsuki2.jpg", "type": ["akatan", "tan"], "id": "Mutsuki2"},
+{"pic_name": "Mutsuki3.jpg", "type": ["kasu"], "id": "Mutsuki3"},
+{"pic_name": "Mutsuki4.jpg", "type": ["kasu"], "id": "Mutsuki4"}], 
+"name": "Mutsuki"},
+
+{"cards":
+[{"pic_name": "Kisaragi1.jpg", "type": ["tane"], "id": "Kisaragi1"},
+{"pic_name": "Kisaragi2.jpg", "type": ["akatan", "tan"], "id": "Kisaragi2"},
+{"pic_name": "Kisaragi3.jpg", "type": ["kasu"], "id": "Kisaragi3"},
+{"pic_name": "Kisaragi4.jpg", "type": ["kasu"], "id": "Kisaragi4"}], 
+"name": "Kisaragi"},
+
+{"cards":
+[{"pic_name": "Yayoi1.jpg", "type": ["cou", "sakura"], "id": "Yayoi1"},
+{"pic_name": "Yayoi2.jpg", "type": ["akatan", "tan"], "id": "Yayoi2"},
+{"pic_name": "Yayoi3.jpg", "type": ["kasu"], "id": "Yayoi3"},
+{"pic_name": "Yayoi4.jpg", "type": ["kasu"], "id": "Yayoi4"}], 
+"name": "Yayoi"},
+
+{"cards":
+[{"pic_name": "Uzuki1.jpg", "type": ["tane"], "id": "Uzuki1"},
+{"pic_name": "Uzuki2.jpg", "type": ["tan"], "id": "Uzuki2"},
+{"pic_name": "Uzuki3.jpg", "type": ["kasu"], "id": "Uzuki3"},
+{"pic_name": "Uzuki4.jpg", "type": ["kasu"], "id": "Uzuki4"}], 
+"name": "Uzuki"},
+
+{"cards":
+[{"pic_name": "Satuki1.jpg", "type": ["tane"], "id": "Satuki1"},
+{"pic_name": "Satuki2.jpg", "type": ["tan"], "id": "Satuki2"},
+{"pic_name": "Satuki3.jpg", "type": ["kasu"], "id": "Satuki3"},
+{"pic_name": "Satuki4.jpg", "type": ["kasu"], "id": "Satuki4"}], 
+"name": "Satuki"},
+
+{"cards":
+[{"pic_name": "Minazuki1.jpg", "type": ["tane", "butterfly"], "id": "Minazuki1"},
+{"pic_name": "Minazuki2.jpg", "type": ["aoitan", "tan"], "id": "Minazuki2"},
+{"pic_name": "Minazuki3.jpg", "type": ["kasu"], "id": "Minazuki3"},
+{"pic_name": "Minazuki4.jpg", "type": ["kasu"], "id": "Minazuki4"}], 
+"name": "Minazuki"},
+
+{"cards":
+[{"pic_name": "Fumizuki1.jpg", "type": ["tane", "boar"], "id": "Fumizuki1"},
+{"pic_name": "Fumizuki2.jpg", "type": ["tan"], "id": "Fumizuki2"},
+{"pic_name": "Fumizuki3.jpg", "type": ["kasu"], "id": "Fumizuki3"},
+{"pic_name": "Fumizuki4.jpg", "type": ["kasu"], "id": "Fumizuki4"}], 
+"name": "Fumizuki"},
+
+{"cards":
+[{"pic_name": "Hazuzuki1.jpg", "type": ["cou", "moon"], "id": "Hazuzuki1"},
+{"pic_name": "Hazuzuki2.jpg", "type": ["tane"], "id": "Hazuzuki2"},
+{"pic_name": "Hazuzuki3.jpg", "type": ["kasu"], "id": "Hazuzuki3"},
+{"pic_name": "Hazuzuki4.jpg", "type": ["kasu"], "id": "Hazuzuki4"}], 
+"name": "Hazuzuki"},
+
+{"cards":
+[{"pic_name": "Nagatsuki1.jpg", "type": ["tane", "cup"], "id": "Nagatsuki1"},
+{"pic_name": "Nagatsuki2.jpg", "type": ["aoitan", "tan"], "id": "Nagatsuki2"},
+{"pic_name": "Nagatsuki3.jpg", "type": ["kasu"], "id": "Nagatsuki3"},
+{"pic_name": "Nagatsuki4.jpg", "type": ["kasu"], "id": "Nagatsuki4"}], 
+"name": "Nagatsuki"},
+
+{"cards":
+[{"pic_name": "Kannazuki1.jpg", "type": ["tane", "deer"], "id": "Kannazuki1"},
+{"pic_name": "Kannazuki2.jpg", "type": ["aoitan", "tan"], "id": "Kannazuki2"},
+{"pic_name": "Kannazuki3.jpg", "type": ["kasu"], "id": "Kannazuki3"},
+{"pic_name": "Kannazuki4.jpg", "type": ["kasu"], "id": "Kannazuki4"}], 
+"name": "Kannazuki"},
+
+{"cards":
+[{"pic_name": "Shimotsuki1.jpg", "type": ["cou", "rain"], "id": "Shimotsuki1"},
+{"pic_name": "Shimotsuki2.jpg", "type": ["tane"], "id": "Shimotsuki2"},
+{"pic_name": "Shimotsuki3.jpg", "type": ["tan"], "id": "Shimotsuki3"},
+{"pic_name": "Shimotsuki4.jpg", "type": ["kasu"], "id": "Shimotsuki4"}], 
+"name": "Shimotsuki"},
+
+{"cards":
+[{"pic_name": "Shiwasu1.jpg", "type": ["cou", "phoenix"], "id": "Shiwasu1"},
+{"pic_name": "Shiwasu2.jpg", "type": ["kasu"], "id": "Shiwasu2"},
+{"pic_name": "Shiwasu3.jpg", "type": ["kasu"], "id": "Shiwasu3"},
+{"pic_name": "Shiwasu4.jpg", "type": ["kasu"], "id": "Shiwasu4"}], 
+"name": "Shiwasu"}
+]
